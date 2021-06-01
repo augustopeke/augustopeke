@@ -21,7 +21,7 @@ No momento venho estudando e aprimorando minhas habilidades para me tornar um de
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo Instagram">
     </li>
   </a>
-  <a href="www.linkedin.com/in/augusto-meireles-nascimento" target="_blank">
+  <a href="https://www.linkedin.com/in/augusto-meireles-nascimento/" target="_blank">
     <li>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo Linkediin">
     </li>
