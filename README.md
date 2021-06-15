@@ -4,7 +4,7 @@
 ### Sobre mim
 
 <p>Meu nome é <strong>Augusto Meireles do Nascimento</strong>, tenho 25 anos e estou me graduando em Sistemas de informação.
-No momento venho estudando e aprimorando minhas habilidades para me tornar um desenvolvedor Front-End e o que me atraiu para a área de tecnologia é a cosntante mudança que ocorre dentro deste ambiente e o desafio de sempre estar apto a se reinventar.</p>
+No momento venho estudando e aprimorando minhas habilidades para a longo me tornar um desenvolvedor Full Stack, e o que me atraiu para a área de tecnologia é a cosntante mudança que ocorre dentro deste ambiente e o desafio de sempre estar apto a se reinventar.</p>
 
 <hr>
 
